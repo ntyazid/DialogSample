@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogSample</string>
+    <string name="display_dialog">Display Dialog</string>
+    <string name="welcome">Welcome</string>
+    <string name="thanks_for_your_attention">Thanks for your attention, keep the spirit of learning</string>
+    <string name="ok">Ok</string>
+    <string name="info">Info</string>
+    <string name="hallo_gays">Hallo gays, this is bottom sheet dialog</string>
+</resources>
